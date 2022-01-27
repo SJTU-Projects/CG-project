@@ -1,0 +1,10 @@
+^D:\BAIDUNETDISKDOWNLOAD\大三上\4计算机图形学(CG)\作业\1\CG_OPENGL\EXTERNAL\GLFW-MASTER\CMAKELISTS.TXT
+setlocal
+D:\CMAKE\bin\cmake.exe -SD:/BaiduNetdiskDownload/大三上/4计算机图形学(cg)/作业/1/CG_OpenGL/External/glfw-master -BD:/BaiduNetdiskDownload/大三上/4计算机图形学(cg)/作业/1/CG_OpenGL/External/glfw-master/build --check-stamp-file D:/BaiduNetdiskDownload/大三上/4计算机图形学(cg)/作业/1/CG_OpenGL/External/glfw-master/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

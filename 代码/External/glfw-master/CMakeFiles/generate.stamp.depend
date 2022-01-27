@@ -1,0 +1,16 @@
+# CMake generation dependency list for this directory.
+D:/BaiduNetdiskDownload/大三上/4计算机图形学(cg)/作业/1/CG_OpenGL/External/glfw-master/CMake/cmake_uninstall.cmake.in
+D:/BaiduNetdiskDownload/大三上/4计算机图形学(cg)/作业/1/CG_OpenGL/External/glfw-master/CMake/glfw3.pc.in
+D:/BaiduNetdiskDownload/大三上/4计算机图形学(cg)/作业/1/CG_OpenGL/External/glfw-master/CMake/glfw3Config.cmake.in
+D:/BaiduNetdiskDownload/大三上/4计算机图形学(cg)/作业/1/CG_OpenGL/External/glfw-master/CMakeLists.txt
+D:/CMAKE/share/cmake-3.18/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+D:/CMAKE/share/cmake-3.18/Modules/CMakeDependentOption.cmake
+D:/CMAKE/share/cmake-3.18/Modules/CMakePackageConfigHelpers.cmake
+D:/CMAKE/share/cmake-3.18/Modules/CheckCSourceCompiles.cmake
+D:/CMAKE/share/cmake-3.18/Modules/CheckIncludeFile.cmake
+D:/CMAKE/share/cmake-3.18/Modules/CheckLibraryExists.cmake
+D:/CMAKE/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake
+D:/CMAKE/share/cmake-3.18/Modules/FindPackageMessage.cmake
+D:/CMAKE/share/cmake-3.18/Modules/FindThreads.cmake
+D:/CMAKE/share/cmake-3.18/Modules/GNUInstallDirs.cmake
+D:/CMAKE/share/cmake-3.18/Modules/WriteBasicConfigVersionFile.cmake

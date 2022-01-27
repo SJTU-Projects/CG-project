@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\BaiduNetdiskDownload\大三上\4计算机图形学(cg)\作业\1\CG_OpenGL\External\glfw-master\build\CMakeFiles\5811262eaa2cbcd6a95150f92f8b5e29\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\BaiduNetdiskDownload\大三上\4计算机图形学(cg)\作业\1\CG_OpenGL\External\glfw-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\BaiduNetdiskDownload\大三上\4计算机图形学(cg)\作业\1\CG_OpenGL\External\glfw-master\build\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{67213C02-AE74-3275-B6CA-8D56257EC1C2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

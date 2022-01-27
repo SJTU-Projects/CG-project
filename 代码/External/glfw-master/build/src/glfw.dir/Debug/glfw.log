@@ -1,0 +1,18 @@
+﻿  Building Custom Rule D:/BaiduNetdiskDownload/������/4�����ͼ��ѧ(cg)/��ҵ/1/CG_OpenGL/External/glfw-master/src/CMakeLists.txt
+  context.c
+  init.c
+  input.c
+  monitor.c
+  vulkan.c
+  window.c
+  win32_init.c
+  win32_joystick.c
+  win32_monitor.c
+  win32_time.c
+  win32_thread.c
+  win32_window.c
+  wgl_context.c
+  egl_context.c
+  osmesa_context.c
+  正在生成代码...
+  glfw.vcxproj -> D:\BaiduNetdiskDownload\大三上\4计算机图形学(cg)\作业\1\CG_OpenGL\External\glfw-master\build\src\Debug\glfw3.lib
